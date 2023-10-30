@@ -22,7 +22,7 @@
       "node": ">=16.20.1"
     },
 
-  "main": "app.js",
+  "main": "app.js", 
   "devDependencies": {},
   "author": "",
   "license": "ISC",
